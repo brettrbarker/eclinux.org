@@ -1,0 +1,6 @@
+version: '2.0'
+services:
+  build:
+    image: klakegg/hugo:0.111.3
+    volumes:
+      - "../eclinux.org:/src"
