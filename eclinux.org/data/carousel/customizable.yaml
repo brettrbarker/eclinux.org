@@ -1,0 +1,9 @@
+weight: 4
+title: "Next Meeting:"
+description: >
+  <ul class="list-style-none">
+    <li>Monday, July 11, 2023</li>
+    <li>At 6:00 PM</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
+href: ""
