@@ -1,3 +1,6 @@
 [submodule "eclinux.org/themes/hugo-universal-theme/"]
 	path = eclinux.org/themes/hugo-universal-theme/
 	url = https://github.com/devcows/hugo-universal-theme
+[submodule "eclinux.org/themes/hugo-universal-theme"]
+	path = eclinux.org/themes/hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
