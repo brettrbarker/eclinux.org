@@ -502,7 +502,7 @@ pluralizelisttitles = false
 
 [params.see_more]
     enable = true
-    icon = "far fa-file-alt"
+    icon = "fas fa-door-open"
     title = "Come Join Us!"
     subtitle = "We typically meet on the second Monday of the month at 6:00PM."
     link_url = "/contact"

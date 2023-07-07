@@ -1,0 +1,10 @@
+weight: 1
+title: "We Are"
+description: >
+  <ul class="list-style-none">
+    <li>The Emerald Coast Linux Users Group</li>
+    <li>A Community of Linux</li>
+    <li>And Tech Enthusiasts</li>
+  </ul>
+image: "img/carousel/tux.png"
+href: ""
