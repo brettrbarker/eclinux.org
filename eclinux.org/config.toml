@@ -335,17 +335,17 @@ pluralizelisttitles = false
 #     weight     = 1
 #     parent     = "section.ap-blog"
 
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "/blog/"
-    weight     = 5
+# [[menu.main]]
+#     name       = "Blog"
+#     identifier = "menu.blog"
+#     url        = "/blog/"
+#     weight     = 5
 
-[[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 6
+# [[menu.main]]
+#     name       = "FAQ"
+#     identifier = "menu.faq"
+#     url        = "/faq/"
+#     weight     = 6
 
 [[menu.main]]
     identifier = "contact"
@@ -487,7 +487,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
@@ -497,13 +497,13 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Come Join Us!"
+    subtitle = "We typically meet on the second Monday of the month at 6:00PM."
+    link_url = "/contact"
+    link_text = "Contact Us"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.

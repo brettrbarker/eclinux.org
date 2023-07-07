@@ -5,6 +5,6 @@ id = "contact"
 
 # Want to know more?
 
-Do you want to know more about us? 
+Do you want to know more about us?  
 
-Please feel free to contact us, or just show up and join us for our next meeting.
+Send us a message and we can add you to our email reminders. Another great place to get in touch with us is on [Matrix](https://matrix.to/#/#eclinux:matrix.org). We hope to connect with you soon.
