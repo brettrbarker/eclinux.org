@@ -362,6 +362,12 @@ pluralizelisttitles = false
     url = "https://matrix.to/#/#eclinux:matrix.org"
     pre = "<i class='far fa-2x fa-comment-dots'></i>"
 
+[[menu.topbar]]
+    weight = 2
+    name = "Github"
+    url = "https://github.com/brettrbarker/eclinux.org"
+    pre = "<i class='fab fa-2x fa-github'></i>"
+
 
 [params]
     viewMorePostLink = "/blog/"
