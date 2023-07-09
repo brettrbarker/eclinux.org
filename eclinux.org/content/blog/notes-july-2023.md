@@ -1,6 +1,6 @@
 +++
 title = "Meeting Notes - July 2023"
-date = "2023-07-08T17:00:00-04:00"
+date = "2023-07-011T18:00:00-05:00"
 tags = ["meeting-notes", "hugo"]
 categories = ["Meeting Notes"]
 banner = "img/banners/note-icon.jpg"
