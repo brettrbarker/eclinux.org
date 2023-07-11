@@ -7,7 +7,6 @@ banner = "img/banners/note-icon.jpg"
 authors = ["Brett Barker"]
 summary = "This is our monthly meeting notes post. You will find the topics discussed along with links to relevant topics brought up in our discussions. Hopefully, this will help those who were not able to attend or refresh the memory of those that did. We hope you will join us in person for our next meeting. If you find an error or need to add anything to these notes, please let us know, or open an issue or pull request on our [Github page](https://github.com/brettrbarker/eclinux.org)."
 +++
-
 ## Business Items
 **Next Meeting:** August 14 @6PM
 
@@ -25,4 +24,14 @@ Rebrand and New Website is live - eclinux.org
    * [Hugo](https://gohugo.io/)
    * [ECLinux.org Github](https://github.com/brettrbarker/eclinux.org)
    * [Netlify](https://www.netlify.com/)
+
+2. Other discussions
+	* Immutable Operating Systems - [Fedora Silverblue](https://fedoraproject.org/silverblue/) and [Ubuntu Core](https://ubuntu.com/core)
+	* Discussions on AI - ChatGPT and Github Copilot
+	* Getting data from a card key reader into a database. Using Github Co-pilot to see if it would write the script for us to collect data into a database. (Looks pretty darn good)
+
+Overall, great discussions tonight. Thank you all for coming! See you next month.
+
+
+
 
