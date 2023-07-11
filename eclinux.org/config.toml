@@ -371,10 +371,10 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Emerald Coast Linux Users Group"
+    defaultKeywords = ["linux", "emerald coast", "fort walton beach"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "The Emerald Coast Linux Users Group is a group of Linux enthusiasts in the Fort Walton Beach, FL area."
 
     # # Social media
     # facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
