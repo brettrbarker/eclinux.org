@@ -29,6 +29,7 @@ Rebrand and New Website is live - eclinux.org
 	* Immutable Operating Systems - [Fedora Silverblue](https://fedoraproject.org/silverblue/) and [Ubuntu Core](https://ubuntu.com/core)
 	* Discussions on AI - ChatGPT and Github Copilot
 	* Getting data from a card key reader into a database. Using Github Co-pilot to see if it would write the script for us to collect data into a database. (Looks pretty darn good)
+	* Where Brett gets some of his crazy ideas: podcasts from [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/) including Linux Unplugged and Self-Hosted. 
 
 Overall, great discussions tonight. Thank you all for coming! See you next month.
 
