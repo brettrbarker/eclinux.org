@@ -12,9 +12,6 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 
 **Location:** Beachside Community Church
 
-**Note:** Subject to change if Brett has to go out of town for work.
-Update will be sent via Matrix and email if schedule change or location change is necessary.
-
 
 Rebrand and New Website is live - eclinux.org
 
