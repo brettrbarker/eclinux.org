@@ -25,6 +25,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 4. [45 Homelab](https://45homelab.com/)
 5. [Jupyter Notebooks](https://jupyter.org/)
 6. A look at Linux permissions including umask. Here is a [good overview article](https://www.geeksforgeeks.org/umask-command-in-linux-with-examples/#). It shows what we discovered with Linux not setting execute bit on files even if it is set in the umask.
+
      Some above and beyond articles if you are interested:
      * [Setuid Demystified](https://www.usenix.org/conference/11th-usenix-security-symposium/setuid-demystified)
      * [Implementing SELinux as a Linux Security Module](https://www.nsa.gov/portals/75/documents/resources/everyone/digital-media-center/publications/research-papers/implementing-selinux-as-linux-security-module-report.pdf)
