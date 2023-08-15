@@ -17,14 +17,16 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 
 ## Discussion Topics
 
-1. My [GrapheneOS](https://grapheneos.org/) experience 
+1. My [GrapheneOS](https://grapheneos.org/) experience - postponed for next time.
     * [Udev rules tutorial](https://linuxconfig.org/tutorial-on-how-to-write-basic-udev-rules-in-linux)
     * [Android Udev Rules](https://github.com/M0Rf30/android-udev-rules)
-2. [Proxmox](https://www.proxmox.com/)
-3. [BlendOS](https://blendos.co/)
-4. [NixOS](https://nixos.org/)
+2. Got [Xubuntu](https://xubuntu.org/) installed on an old desktop of Louis' using a [Ventoy](https://www.ventoy.net/en/index.html) USB.
+3. [Proxmox](https://www.proxmox.com/) - with a demonstration of Kevin's home system that he connected to using [Tailscale](https://tailscale.com/)
+4. [45 Homelab](https://45homelab.com/)
+5. [Jupyter Notebooks](https://jupyter.org/)
+6. A look at Linux permissions including umask. Here is a [good overview article](https://www.geeksforgeeks.org/umask-command-in-linux-with-examples/#). It shows what we discovered with Linux not setting execute bit on files even if it is set in the umask.
+     Some above and beyond articles if you are interested:
+     * [Setuid Demystified](https://www.usenix.org/conference/11th-usenix-security-symposium/setuid-demystified)
+     * [Implementing SELinux as a Linux Security Module](https://www.nsa.gov/portals/75/documents/resources/everyone/digital-media-center/publications/research-papers/implementing-selinux-as-linux-security-module-report.pdf)
 
 See you next month!
-  
-
-  
