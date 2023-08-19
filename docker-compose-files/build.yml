@@ -3,4 +3,4 @@ services:
   build:
     image: klakegg/hugo:0.111.3
     volumes:
-      - "../barkerland.org:/src"
+      - "../eclinux.org:/src"
