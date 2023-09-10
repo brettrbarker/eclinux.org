@@ -7,9 +7,9 @@ banner = "img/banners/hugo_logo.png"
 authors = ["Brett Barker"]
 +++
 
-Welcome to our new site and our new group essentially. The Emerald Coast Linux Users Group was formed with some members who were part of Northwest Florida Linux Users Group ([NWFLUG](https://nwflug.org/)) along with some new members. Essentially, NWFLUG had not met in some time, but there was a renewed interest in gathering again. I, myself, had not attended NWFLUG and desired to meet with some like-minded people to discuss Linux and technology. 
+Welcome to our new site and our new group essentially. The Emerald Coast Linux Users Group was formed with some members who were part of Northwest Florida Linux Users Group ([NWFLUG](https://nwflug.org/)) along with some new members. Essentially, NWFLUG had not met in some time, but there was a renewed interest in gathering again. I, myself, had not attended NWFLUG and desired to meet with some like-minded people to discuss Linux and technology.
 
-With the re-emergence of the Linux users group, came the decision to rebrand and start fresh. The Emerald Coast Linux Users Group was born. As a part of the new name, we needed a new site. We decided on [eclinux.org](https://eclinux.org/). We figured it was a little more memorable than just a long acronym like eclug or something. 
+With the re-emergence of the Linux users group, came the decision to rebrand and start fresh. The Emerald Coast Linux Users Group was born. As a part of the new name, we needed a new site. We decided on [eclinux.org](https://eclinux.org/). We figured it was a little more memorable than just a long acronym like eclug or something.
 
 The new website also just gave me an excuse to play with Hugo. I had heard about Hugo from a couple of different places. One of which was the Linux podcasting network [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/). They recently used Hugo to recreate their own website.
 
