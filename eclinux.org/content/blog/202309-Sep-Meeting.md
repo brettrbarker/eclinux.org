@@ -24,4 +24,4 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
     * Open source network honeypot
 3. Walkthrough of part of the [*Bandit* "War Game"](https://overthewire.org/wargames/bandit/)
 
-See you next month!
+See you next month! 
