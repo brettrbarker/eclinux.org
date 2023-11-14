@@ -17,7 +17,17 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 
 ## Discussion Topics
 
-1. Ascii Cinema
+1. asciinema
     * [asciinema.org](https://asciinema.org/)
+2. Installing Linux on old Netbook
+    * Tried [Ubuntu Mate](https://ubuntu-mate.org/), but installer had a failure
+    * Succeeded with [Lubuntu](https://lubuntu.me/)
+3. Links to other items mentioned
+    * [Validrive](https://www.grc.com/validrive.htm)
+    * [Unixsurplus](https://www.ebay.com/str/unixsurpluscom) on eBay
+    * [Sanoid/Syncoid](https://github.com/jimsalterjrs/sanoid) for managing ZFS snapshots
+    * [Darknet Diaries](https://darknetdiaries.com/) podcast - [Stuxnet episode](https://darknetdiaries.com/episode/29/)
+    * Bash shell customizations with [shopt](https://www.howtogeek.com/691980/how-to-customize-the-bash-shell-with-shopt/)
+    * Dummy switch in Home Assitant - use an [input boolean](https://www.home-assistant.io/integrations/input_boolean/)
 
 See you next month!
