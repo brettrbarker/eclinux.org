@@ -26,7 +26,8 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
     * [Foundry on Oracle Guide](https://foundryvtt.wiki/en/setup/hosting/always-free-oracle)
 3. Sleuth Kit - Open Source Digital Forensics
     * [sleuthkit.org](https://sleuthkit.org/)
-4. Troubleshooting MQTT devices not showing in Home Assistant
+4. [NSA's Ghidra Tool](https://github.com/NationalSecurityAgency/ghidra)
+5. Troubleshooting MQTT devices not showing in Home Assistant
     * [MQTT auto discovery not working](https://community.home-assistant.io/t/mqtt-auto-discovery-not-working/175474/7)
     * [No detection of new mqtt devices](https://community.home-assistant.io/t/no-detection-of-new-mqtt-devices/443666/1)
     * [FIXED: MQTT finds device but doesn’t show](https://community.home-assistant.io/t/fixed-mqtt-finds-device-but-doesnt-show/185684)
