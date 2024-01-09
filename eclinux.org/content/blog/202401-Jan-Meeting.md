@@ -9,7 +9,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 +++
 ## Business Items
 
-**Next Meeting:** February 12, 2024 @6PM
+**Next Meeting:** February 5, 2024 @6PM
 
 **Location:** Beachside Community Church
 
@@ -29,7 +29,5 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
     * [MQTT auto discovery not working](https://community.home-assistant.io/t/mqtt-auto-discovery-not-working/175474/7)
     * [No detection of new mqtt devices](https://community.home-assistant.io/t/no-detection-of-new-mqtt-devices/443666/1)
     * [FIXED: MQTT finds device but doesn’t show](https://community.home-assistant.io/t/fixed-mqtt-finds-device-but-doesnt-show/185684)
-
-
 
 See you next month!
