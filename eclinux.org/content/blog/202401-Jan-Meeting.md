@@ -20,9 +20,10 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 1. Byobu and Bottom (BTM)
     * [Byobu](https://byobu.org/)
     * [Bottom](https://github.com/ClementTsang/bottom)
-2. Foundry Server on Oracle
-    * [Foundry](https://www.foundryserver.com/)
+2. Foundry Virtual Tabletop on Oracle
+    * [Foundry VTT](https://foundryvtt.com/)
     * [Oracle Cloud](https://www.oracle.com/cloud/free/)
+    * [Foundry on Oracle Guide](https://foundryvtt.wiki/en/setup/hosting/always-free-oracle)
 3. Sleuth Kit - Open Source Digital Forensics
     * [sleuthkit.org](https://sleuthkit.org/)
 4. Troubleshooting MQTT devices not showing in Home Assistant
