@@ -2,7 +2,8 @@ weight: 2
 title: "Next Meeting:"
 description: >
   <ul class="list-style-none">
-    <li>Monday, May 13, 2024</li>
+    <li><s>Monday, May 13, 2024</s></li>
+    <li>Monday, May 20, 2024</li>
     <li>6:00 PM</li>
     <li>Beachside Community Church</li>
   </ul>
