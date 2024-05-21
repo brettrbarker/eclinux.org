@@ -1,6 +1,6 @@
 +++
 title = "Meeting Notes - May 2024"
-date = "2024-05-20 T16:00:00-05:00"
+date = "2024-05-20T16:00:00-05:00"
 tags = ["meeting-notes"]
 categories = ["Meeting Notes"]
 banner = "img/banners/note-icon.jpg"
