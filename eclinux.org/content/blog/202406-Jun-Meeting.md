@@ -25,6 +25,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 3. [OpenCV](https://opencv.org/)
 4. [Frigate](https://frigate.video/)
 5. [Unifi Video](https://store.ui.com/us/en?category=all-cameras-nvrs)
+6. [Immich](https://immich.app/)
 
 
 See you next month!
