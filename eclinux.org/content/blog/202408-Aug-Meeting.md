@@ -15,6 +15,8 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 
 * * *
 
-No major links to post this month. We had some great discussions though!
+Great discussions tonight!
+
+1. [Libre Speed](https://github.com/librespeed/speedtest)
 
 See you next month!
