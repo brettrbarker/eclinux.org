@@ -1,10 +1,11 @@
-weight: 2
-title: "Next Meeting:"
-description:
+weight: 1
+title: "Emerald Coast Linux Users Group"
+description: |
   <ul class="list-style-none">
-    <li>Monday, October 14, 2024</li>
-    <li>6:00 PM</li>
-    <li>Beachside Community Church</li>
+    <li><em>Next Meeting:</em></li>
+    <li>Monday, October 14, 2024 @ 6PM</li>
+    <li><a href="https://maps.app.goo.gl/dpLMA9vXJgEzuLWX7" target="_blank" style="color: white;">Beachside Community Church</a></li>
+    <li>Fort Walton Beach, FL</li>
   </ul>
-image: "img/carousel/template-easy-code.png"
+image: "img/carousel/tux.png"
 href: ""
