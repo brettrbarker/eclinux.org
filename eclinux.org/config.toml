@@ -520,7 +520,7 @@ pluralizelisttitles = false
     enable = true
     title = "From our blog"
     subtitle = "Here is the latest from our blog. This includes meeting notes and other topics our members find interesting. Any EC Linux member is welcome to contribute an article. We will also provide outlines and links to topics we discuss at our monthly gatherings."
-    hide_summary = false
+    hide_summary = true
 
 [params.footer.recent_posts]
     enable = false
