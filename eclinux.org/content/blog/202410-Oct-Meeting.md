@@ -1,5 +1,5 @@
 +++
-title = "Meeting Notes - September 2024"
+title = "Meeting Notes - October 2024"
 date = "2024-10-14T16:00:00-05:00"
 tags = ["meeting-notes"]
 categories = ["Meeting Notes"]
@@ -15,5 +15,6 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 
 * * *
 
+More NixOS discussions and looking at config files.
 
 See you next month!
