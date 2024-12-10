@@ -15,7 +15,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 
 * * *
 
-Great presentation about NixOS.
+Great presentation about NixOS by Aaron Hall.
 
 1. [NixOS](https://nixos.org/)
 2. [NixOS Packages](https://search.nixos.org/packages)
