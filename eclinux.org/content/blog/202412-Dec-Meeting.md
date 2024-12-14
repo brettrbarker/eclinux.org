@@ -15,7 +15,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 
 * * *
 
-Thank you all for coming. Aaron showed us some new NixOS tricks around creating dev environments with NixOS flakes. 
+Thank you all for coming. Aaron showed us some new NixOS tricks around creating dev environments with NixOS flakes.
 
 We also briefly talked about the following:
 
