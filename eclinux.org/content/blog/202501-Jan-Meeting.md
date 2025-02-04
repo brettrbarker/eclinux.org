@@ -9,7 +9,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 +++
 ## Business Items
 
-**Next Meeting:** February 10, 2024 @6PM
+**Next Meeting:** February 17, 2024 @6PM
 
 **Location:** Beachside Community Church
 
@@ -18,9 +18,10 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 Thank you all for coming! We had a good crowd.
 
 Items discussed:
+
 * Gary let us attempt a distribution upgrade on his laptop.
-  * apt update / apt upgrade / do-release-upgrade
-  * The upgrade "succeeded" from Ubuntu 20.04 to 22.04, but well... we lost network drivers in the process.
-  * I am rebuilding at home with 24.04...
+* apt update / apt upgrade / do-release-upgrade
+* The upgrade "succeeded" from Ubuntu 20.04 to 22.04, but well... we lost network drivers in the process.
+* I am rebuilding at home with 24.04...
 
 Next month we are going to take apart an old light board that runs linux!
