@@ -427,7 +427,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = ""
 
-    about_us = "<p>We are a local Linux and open source enthusiast group. We love discussing all things Linux and technology. Come join us!</p>"
+    about_us = "<p>We are a local Linux and open source enthusiast group in Fort Walton Beach, FL. We love discussing all things Linux and technology. Come join us!</p>"
     copyright = "All of our content is Free and Open Source and licensed under <a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons BY-SA 4.0</a>."
 
     # Format dates with Go's time formatting
