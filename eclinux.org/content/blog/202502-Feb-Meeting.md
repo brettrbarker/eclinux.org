@@ -1,6 +1,6 @@
 +++
-title = "Meeting Notes - January 2025"
-date = "2025-01-13T16:00:00-05:00"
+title = "Meeting Notes - February 2025"
+date = "2025-02-17T16:00:00-05:00"
 tags = ["meeting-notes"]
 categories = ["Meeting Notes"]
 banner = "img/banners/note-icon.jpg"
@@ -9,7 +9,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 +++
 ## Business Items
 
-**Next Meeting:** February 17, 2025 @6PM
+**Next Meeting:** March 10, 2025 @6PM
 
 **Location:** Beachside Community Church
 
@@ -19,9 +19,4 @@ Thank you all for coming! We had a good crowd.
 
 Items discussed:
 
-* Gary let us attempt a distribution upgrade on his laptop.
-* apt update / apt upgrade / do-release-upgrade
-* The upgrade "succeeded" from Ubuntu 20.04 to 22.04, but well... we lost network drivers in the process.
-* I am rebuilding at home with 24.04...
-
-Next month we are going to take apart an old light board that runs linux!
+We had a very interesting time disassembling an old Jands Vista lighting board. The manufacture date was in 2007.

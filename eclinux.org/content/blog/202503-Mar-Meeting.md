@@ -1,6 +1,6 @@
 +++
-title = "Meeting Notes - February 2025"
-date = "2025-02-17T16:00:00-05:00"
+title = "Meeting Notes - March 2025"
+date = "2025-03-10T16:00:00-05:00"
 tags = ["meeting-notes"]
 categories = ["Meeting Notes"]
 banner = "img/banners/note-icon.jpg"
@@ -9,7 +9,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 +++
 ## Business Items
 
-**Next Meeting:** March 10, 2024 @6PM
+**Next Meeting:** April 14, 2025 @6PM
 
 **Location:** Beachside Community Church
 
@@ -19,4 +19,4 @@ Thank you all for coming! We had a good crowd.
 
 Items discussed:
 
-We had a very interesting time disassembling an old Jands Vista lighting board. The manufacture date was in 2007.
+
