@@ -19,4 +19,21 @@ Thank you all for coming! We had a good crowd.
 
 Items discussed:
 
+Took a basic look at LLMs. This is definitely a topic that we
+should revisit in the future. A homework video to watch is this 
+one by 3Blue1Brown: [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M)
 
+Other LLM resources we looked at:
+
+- [Google's NotebookLM](https://notebooklm.google/)
+- [Llama](https://www.llama.com/)
+
+Brett also gave a basic overview of some of the Applied Cryptography
+that he has been learning in his master's class. Basics of Indistinguishability
+Under Chosen Plaintext Attacks (IND-CPA), Indistinguishability Under Chosen Ciphertext Attacks (IND-CCA),
+and Unforgeability Under Chosen-Message Attacks (UF-CMA) among other things.
+Here is a quick video about IND-CPA and IND-CCA security:
+[Decoding Cryptography Lecture 6: Semantic, CPA, and CCA Security](https://www.youtube.com/watch?v=IefDaAVi4R4)
+
+Hope to see you all next month. Bring your topic ideas or send us a message on
+[Matrix](https://matrix.to/#/#eclinux:matrix.org), and we can plan ahead!
