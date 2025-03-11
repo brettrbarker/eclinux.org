@@ -20,7 +20,7 @@ Thank you all for coming! We had a good crowd.
 Items discussed:
 
 Took a basic look at LLMs. This is definitely a topic that we
-should revisit in the future. A homework video to watch is this 
+should revisit in the future. A homework video to watch is this
 one by 3Blue1Brown: [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M)
 
 Other LLM resources we looked at:
