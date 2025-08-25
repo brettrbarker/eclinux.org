@@ -9,7 +9,7 @@ summary = "This is our monthly meeting notes post. You will find the topics disc
 +++
 ## Business Items
 
-**Next Meeting:** September 8, 2025 @6PM
+**Next Meeting:** October 13, 2025 @6PM
 
 **Location:** Beachside Church
 
