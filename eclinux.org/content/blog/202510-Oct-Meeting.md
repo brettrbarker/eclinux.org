@@ -26,6 +26,8 @@ Resources:
 
 [OpenCanary Documentation](https://opencanary.readthedocs.io/en/latest/)
 
+[Canary Tokens](https://canarytokens.org)
+
 We also talked about [Shields Up](https://www.grc.com/shieldsup) briefly and the importance of checking that all ports are closed coming into your network.
 
 Hope to see you next month!
