@@ -24,7 +24,11 @@ Hope to see you all next month!
 Links:
 
 [Omarchy](https://omarchy.org/)
+
 [Hyprland](https://github.com/hyprwm/Hyprland)
+
 [Immich](https://immich.app/)
+
 [NixOS](https://nixos.org/)
+
 [Nix Packages](https://search.nixos.org/packages)
