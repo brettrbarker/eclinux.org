@@ -1,5 +1,5 @@
 +++
-title = "Meeting Notes - October 2025"
+title = "Meeting Notes - November 2025"
 date = "2025-11-10T16:00:00-05:00"
 tags = ["meeting-notes"]
 categories = ["Meeting Notes"]
