@@ -39,3 +39,13 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # For NixOS, just add them to your systemPackages.
 ```
+
+Additional Resources:
+
+A half-hour to learn Rust: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+
+Interactive "The Rust Book" at Brown: https://rust-book.cs.brown.edu/
+
+Rust Documentation: https://doc.rust-lang.org
+
+Compile Rust online: https://play.rust-lang.org
